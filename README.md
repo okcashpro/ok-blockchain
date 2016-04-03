@@ -1,2 +1,2 @@
-# ok-blockchain
+# OK-Blockchain
 OKCash Blockchain
