@@ -44,4 +44,4 @@ Windows:
 
 If you require further assistance or want to keep informed of updates, join:
 
-<iframe src="https://discordapp.com/widget?id=213747404745211904&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+http://discord.me/cryptocurrency
