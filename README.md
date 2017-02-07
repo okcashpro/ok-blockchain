@@ -44,4 +44,6 @@ Windows:
 
 If you require further assistance or want to keep informed of updates, join:
 
+https://discord.gg/grvpc8c
 http://discord.me/cryptocurrency
+http://discord.io/cryptocurrency
