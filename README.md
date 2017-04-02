@@ -2,7 +2,7 @@
 
 ![OK-Blockchain](http://i.imgur.com/LLkiV14.jpg)
 
-#For Windows, Mac, Linux, Raspberry Pi
+# For Windows, Mac, Linux, Raspberry Pi
 
 When you load the OK Wallet for the first time it connects to the peer-to-peer network and starts to synchronize the OK blockchain. 
 
