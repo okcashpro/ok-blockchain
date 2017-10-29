@@ -2,7 +2,9 @@
 
 ![OK-Blockchain](http://i.imgur.com/LLkiV14.jpg)
 
-# For Windows, Mac, Linux,
+# For Windows, Mac, Linux, (x86 and x64)
+
+if you are looking for the IoT blockchain (raspberry pi, Pine64+ and other IoT devices)  that is located at https://github.com/okcashpro/ok-blockchain-iot/releases
 
 When you load the OK Wallet for the first time it connects to the peer-to-peer network and starts to synchronize the OK blockchain. 
 
