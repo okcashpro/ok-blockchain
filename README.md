@@ -1,6 +1,6 @@
 # OK Cryptocurrency Blockchain
 
-# [11 May 2018] [Instant Sync]
+# [14 January 2019] [Instant Sync]
 
 ![OK-Blockchain](http://i.imgur.com/LLkiV14.jpg)
 
