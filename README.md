@@ -1,4 +1,4 @@
-# [OK[ Okcash Cryptocurrency Blockchain
+# [OK] Okcash Cryptocurrency Blockchain
 
 # [19 March 2019] [Instant Sync]
 
