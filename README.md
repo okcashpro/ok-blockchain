@@ -1,6 +1,6 @@
 # [OK] Okcash Cryptocurrency Blockchain
 
-# [5th July 2019] [Instant Sync]
+# [22nd August 2019] [Instant Sync]
 
 ![OK-Blockchain](http://i.imgur.com/LLkiV14.jpg)
 
@@ -54,8 +54,8 @@ http://discord.me/cryptocurrency
 
 OK Links:
 
-https://okcash.org
+OK Documentation site: https://okcash.org
 
-https://okcash.co
+OK Community site: https://okcash.co
 
-https://okcashtalk.org
+Okcashtalk Forums: https://okcashtalk.org
