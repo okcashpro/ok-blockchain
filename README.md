@@ -1,6 +1,6 @@
 # [OK] Okcash Cryptocurrency Blockchain
 
-# [30 September 2019] [Instant Sync]
+# [21 October 2019] [Instant Sync]
 
 ![OK-Blockchain](http://i.imgur.com/LLkiV14.jpg)
 
