@@ -38,6 +38,10 @@ MacOS:
 
 **~/Library/Application Support/Okcash/**
 
+New MacOS:
+
+**/Users/(username)/Library/Application Support/Okcash**
+
 Windows:
 
 **%APPDATA%\OKCash**
