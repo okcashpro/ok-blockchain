@@ -28,7 +28,8 @@ Adding the current ok-blockchain to your local okcash data directory speeds up t
 4.- Start your OK Wallet and give it some minutes to finish it's first time Sync process. 
 (The client might be unresponsive but don’t worry - it’s just loading and verifying all the ok-blockchain data)
 
-### Okcash data directory location on different Operating Systems
+### Okcash config data directory location on different Operating Systems
+(or just click on the "open config folder..." under the "Options" menu in the Okcash wallet).
 
 Linux and IoT devices:
 
