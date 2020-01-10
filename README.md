@@ -64,3 +64,5 @@ OK Documentation site: https://okcash.org
 OK Community site: https://okcash.co
 
 Okcashtalk Forums: https://okcashtalk.org
+
+Okcash on Bitcointalk: https://bitcointalk.org/index.php?topic=1028368.0
