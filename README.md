@@ -1,10 +1,10 @@
-# [OK] Okcash Cryptocurrency Blockchain
+# [OK] Okcash Cryptocurrency Blockchain [Instant Sync]
 
 # [9 January 2020] [Instant Sync]
 
-![OK-Blockchain](http://i.imgur.com/LLkiV14.jpg)
+![OK-Blockchain](https://i.imgur.com/JUQA9LW.png)
 
-# For Windows, Mac, Linux, (x86 and x64)
+# OK Blockchain [Windows, Mac, Linux, Raspberry Pi]
 
 When you load the OK Wallet for the first time it connects to the peer-to-peer network and starts to synchronize the OK blockchain. 
 
