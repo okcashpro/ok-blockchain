@@ -1,6 +1,6 @@
 # [OK] Okcash Blockchain [Instant Sync]
 
-# [17 November 2020] 
+# [27 November 2020] 
 
 ![OK-Blockchain](https://i.imgur.com/JUQA9LW.png)
 
