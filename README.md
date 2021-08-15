@@ -1,6 +1,6 @@
 # [OK] Okcash Blockchain [Instant Sync]
 
-# [8 May 2021] 
+# [15 August 2021] 
 
 ![OK-Blockchain](https://i.imgur.com/JUQA9LW.png)
 
@@ -21,9 +21,9 @@ Adding the current ok-blockchain to your local okcash data directory speeds up t
 1.- Close the OK Wallet and download the latest ok-blockchain file from:
       https://github.com/okcashpro/ok-blockchain/releases
 
-2.- Place the ok-blockchain.zip file in the Okcash data directory, location depends on your operating system.
+2.- Place the ok-blockchain.rar file in the Okcash data directory, location depends on your operating system.
 
-3.- Unzip the ok-blockchain.zip file. (includes txleveldb folder + blk0001.dat files)
+3.- Unrar the ok-blockchain.rar file. (includes txleveldb folder + blk0001.dat files)
 
 4.- Start your OK Wallet and give it some minutes to finish it's first time Sync process. 
 (The client might be unresponsive but don’t worry - it’s just loading and verifying all the ok-blockchain data)
