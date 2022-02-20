@@ -1,10 +1,25 @@
-# [OK] Okcash Blockchain [Instant Sync]
+# [OK] Up to date Okcash Blockchain [Instant Sync]
 
-# [15 August 2021] 
+# [20 February 2022] 
 
 ![OK-Blockchain](https://i.imgur.com/JUQA9LW.png)
 
-# OK Blockchain [Windows, Mac, Linux, Raspberry Pi]
+# Download the latest ok-blockchain.rar directly from: https://okcash.co/ok-blockchain.rar 
+Or from the google drive mirror: https://bit.ly/ok-blockchain
+
+---------------------------
+
+**Checksum information for ok-blockchain.rar**
+
+MD5: ECE9E4D8DAB5997B1F19270748F5374A
+
+SHA-1: 4B7464328CF83C8442AD061CF21FB275B9A66C2B
+
+SHA-256: 7356C9770BAFFF5976D85AB73477D3209B2976D7692D6B3E0768F46F3523259A
+
+---------------------------
+
+# [How to] OK Blockchain [Windows, Mac, Linux, Raspberry Pi]
 
 When you load the OK Wallet for the first time it connects to the peer-to-peer network and starts to synchronize the OK blockchain. 
 
@@ -18,8 +33,7 @@ Adding the current ok-blockchain to your local okcash data directory speeds up t
 
 ### How to use the ok-blockchain to sync your OK wallet
 
-1.- Close the OK Wallet and download the latest ok-blockchain file from:
-      https://github.com/okcashpro/ok-blockchain/releases
+1.- Close the OK Wallet and download the latest ok-blockchain.rar file.
 
 2.- Place the ok-blockchain.rar file in the Okcash data directory, location depends on your operating system.
 
