@@ -9,7 +9,7 @@ Or from the google drive mirror: https://bit.ly/ok-blockchain
 
 ---------------------------
 
-**Checksum information for ok-blockchain.rar**
+**Checksum information for ok-blockchain.rar [20-Feb-2022]**
 
 MD5: ECE9E4D8DAB5997B1F19270748F5374A
 
