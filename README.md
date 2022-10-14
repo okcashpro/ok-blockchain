@@ -5,7 +5,7 @@
 # Download the latest ok-blockchain.rar directly from: https://okcash.co/ok-blockchain.rar 
 Or from the google drive mirror: https://bit.ly/ok-blockchain
 
-![OK-Blockchain](https://i.imgur.com/JUQA9LW.png)
+![OK-Blockchain](https://i.imgur.com/Ji5jRIT.png)
 
 ---------------------------
 
