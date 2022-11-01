@@ -1,6 +1,6 @@
 # [OK] Up to date Okcash Blockchain [Instant Sync]
 
-### [2 October 2022] 
+### [November 1st 2022] 
 
 # Download the latest ok-blockchain.rar directly from: https://okcash.co/ok-blockchain.rar 
 Or from the google drive mirror: https://bit.ly/ok-blockchain
@@ -9,13 +9,13 @@ Or from the google drive mirror: https://bit.ly/ok-blockchain
 
 ---------------------------
 
-**Checksum information for ok-blockchain.rar [2-October-2022]**
+**Checksum information for ok-blockchain.rar [Nov-1-2022]**
 
-MD5: 64036EDBFBF0D7AEF984F359C709E29E
+MD5: 5541EA9EF080DCDFEA3571D455C0E9BE
 
-SHA-1: F1BCABE97263E9DC38F0A552C583B0BE2E45849C
+SHA-1: E66FD1E010115A10D9E0CE31EFC4B6EA8AA89380
 
-SHA-256: C5F6AB6E1650A90B2D71E625F170351EE8B7F14A05851F8D7BA81BF8CD5C36F7
+SHA-256: 2B05D285042C0F6E9901CD0FBF21F4FCF963EB7BB161B7B44D83B9DDB80591E6
 
 
 ---------------------------
