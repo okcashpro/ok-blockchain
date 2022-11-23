@@ -9,7 +9,7 @@ Or from the google drive mirror: https://bit.ly/ok-blockchain
 
 ---------------------------
 
-**Checksum information for ok-blockchain.rar [Nov-23-2022]**
+**Checksum information for ok-blockchain.zip [Nov-23-2022]**
 
 MD5: 4144D6BE4E1D8D7D1E540BB7B744FEEA
 
@@ -34,11 +34,11 @@ Adding the current ok-blockchain to your local okcash data directory speeds up t
 
 ### How to use the ok-blockchain to sync your OK wallet
 
-1.- Close the OK Wallet and download the latest ok-blockchain.rar file.
+1.- Close the OK Wallet and download the latest ok-blockchain.zip file.
 
 2.- Place the ok-blockchain.zip file in the Okcash data directory, location depends on your operating system.
 
-3.- Unrar the ok-blockchain.zip file. (includes txleveldb folder + blk0001.dat files)
+3.- Unzip the ok-blockchain.zip file. (includes txleveldb folder + blk0001.dat files)
 
 4.- Start your OK Wallet and give it some minutes to finish it's first time Sync process. 
 (The client might be unresponsive but don’t worry - it’s just loading and verifying all the ok-blockchain data)
