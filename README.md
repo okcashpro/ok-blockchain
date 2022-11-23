@@ -1,21 +1,21 @@
 # [OK] Up to date Okcash Blockchain [Instant Sync]
 
-### [November 1st 2022] 
+### [November 23rd 2022] 
 
-# Download the latest ok-blockchain.rar directly from: https://okcash.co/ok-blockchain.rar 
+# Download the latest ok-blockchain.zip directly from: https://okcash.co/ok-blockchain.zip 
 Or from the google drive mirror: https://bit.ly/ok-blockchain
 
 ![OK-Blockchain](https://i.imgur.com/Ji5jRIT.png)
 
 ---------------------------
 
-**Checksum information for ok-blockchain.rar [Nov-1-2022]**
+**Checksum information for ok-blockchain.rar [Nov-23-2022]**
 
-MD5: 5541EA9EF080DCDFEA3571D455C0E9BE
+MD5: 4144D6BE4E1D8D7D1E540BB7B744FEEA
 
-SHA-1: E66FD1E010115A10D9E0CE31EFC4B6EA8AA89380
+SHA-1: 253F64751B8CCA6F7AE2A6BBCDC617C7C2A2F15D
 
-SHA-256: 2B05D285042C0F6E9901CD0FBF21F4FCF963EB7BB161B7B44D83B9DDB80591E6
+SHA-256: 6A88B43A0FA21EF2F27A27FAC2D961DE62DBA47961DA3FF96D98E1B927656FF7
 
 
 ---------------------------
@@ -36,9 +36,9 @@ Adding the current ok-blockchain to your local okcash data directory speeds up t
 
 1.- Close the OK Wallet and download the latest ok-blockchain.rar file.
 
-2.- Place the ok-blockchain.rar file in the Okcash data directory, location depends on your operating system.
+2.- Place the ok-blockchain.zip file in the Okcash data directory, location depends on your operating system.
 
-3.- Unrar the ok-blockchain.rar file. (includes txleveldb folder + blk0001.dat files)
+3.- Unrar the ok-blockchain.zip file. (includes txleveldb folder + blk0001.dat files)
 
 4.- Start your OK Wallet and give it some minutes to finish it's first time Sync process. 
 (The client might be unresponsive but don’t worry - it’s just loading and verifying all the ok-blockchain data)
