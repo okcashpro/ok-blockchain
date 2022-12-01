@@ -1,25 +1,51 @@
-# [OK] Up to date Okcash Blockchain [Instant Sync]
+# [OK] Up to date Okcash Blockchain [Instant Sync] [Manual / Auto]
 
-### [November 23rd 2022] 
+# AUTOMATIC [Windows]: 
+Download the 1Click_Instant_Sync_OK_windows.exe file directly from: 
+https://github.com/okcashpro/ok-blockchain/releases/tag/latest
 
-# Download the latest ok-blockchain.zip directly from: https://okcash.co/ok-blockchain.zip 
+# MANUAL [All OS]: 
+
+### [December 1st 2022] 
+
+Download the latest ok-blockchain.zip directly from: https://okcash.co/ok-blockchain.zip 
+
 Or from the google drive mirror: https://bit.ly/ok-blockchain
 
 ![OK-Blockchain](https://i.imgur.com/Ji5jRIT.png)
 
 ---------------------------
 
-**Checksum information for ok-blockchain.zip [Nov-23-2022]**
+**Checksum information for 1Click_Instant_Sync_OK_windows.exe [Always installs the latest OK blockchain snapshot]**
 
-MD5: E012FB7EAF53219A05A3F72BD7F43B0D
+MD5: BAB922D8C22B1B316F4560DF8C29D71E
 
-SHA-1: 36E2FCCFDE838F2849081B0C40E759E4D0407C93
+SHA-1: F8D1D53BF25234FAAF4C217B1E80E8427D3B81E2
 
-SHA-256: B22570EFBCDEBD3D816E167E6A5E263CA666163EF2FE14AF79616CE5B2167E32
+SHA-256: 4640C62BD9452EB5DA1CE930E5D0E218E801FF13944F47FB68DEBD69DE4704CA
 
 ---------------------------
 
-# [How to] OK Blockchain [Windows, Mac, Linux, Raspberry Pi]
+**Checksum information for ok-blockchain.zip [Dec-1-2022]**
+
+MD5: 27DEFE6E8F7F415CB70CD4D1A4491B26
+
+SHA-1: D33F13571C4CB4490AD47DFF6235B971C4EF65D3
+
+SHA-256: C0420BE45AF99D093A6E92A47C3B84CD5D5B79090614C933EA83C04F6FC585E2
+
+---------------------------
+
+# [AUTOMATIC: How to] 1 Click Instant Sync [Windows]
+
+Just need to download and install: 1Click_Instant_Sync_OK_windows.exe
+- The installation will download and uncompress in the proper folder the latest OK Blockchain snaphot. 
+- Installer might seem unresponsive the first 2-3 minutes when it starts, as its calculating the file size for download.
+- [Dont click on it, just let it work and you will be synced in no time]
+
+---------------------------
+
+# [MANUAL: How to] OK Blockchain [Windows, Mac, Linux, All OS]
 
 When you load the OK Wallet for the first time it connects to the peer-to-peer network and starts to synchronize the OK blockchain. 
 
@@ -63,7 +89,7 @@ Windows:
 
 (This defaults to C:\Documents and Settings\YourUserName\Application data\OKCash on Windows XP and to C:\Users\YourUserName\Appdata\Roaming\OKCash on Windows Vista, 7, 8, and 10.)
 
-## Live support by the community
+# Live support by the community
 
 If you require further assistance or want to keep informed of updates, join:
 
