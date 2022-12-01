@@ -1,7 +1,11 @@
 # [OK] Up to date Okcash Blockchain [Instant Sync] [Manual / Auto]
+<img src="https://media.giphy.com/media/slUMTgdNTREMFcRJ0s/giphy.gif" alt="1Click OK Instant Sync" width="720">
 
-# AUTOMATIC [Windows]: 
-Download the 1Click_Instant_Sync_OK_windows.exe file directly from: 
+# AUTOMATIC [Windows, Linux]: 
+[Windows] Download the 1Click_Instant_Sync_OK_windows.exe file from: 
+https://github.com/okcashpro/ok-blockchain/releases/tag/latest
+
+[Linux] Download the oksync_linux.sh file from: 
 https://github.com/okcashpro/ok-blockchain/releases/tag/latest
 
 # MANUAL [All OS]: 
@@ -12,27 +16,15 @@ Download the latest ok-blockchain.zip directly from: https://okcash.co/ok-blockc
 
 Or from the google drive mirror: https://bit.ly/ok-blockchain
 
-![OK-Blockchain](https://i.imgur.com/Ji5jRIT.png)
-
----------------------------
-
-**Checksum information for 1Click_Instant_Sync_OK_windows.exe [Always installs the latest OK blockchain snapshot]**
-
-MD5: BAB922D8C22B1B316F4560DF8C29D71E
-
-SHA-1: F8D1D53BF25234FAAF4C217B1E80E8427D3B81E2
-
-SHA-256: 4640C62BD9452EB5DA1CE930E5D0E218E801FF13944F47FB68DEBD69DE4704CA
-
----------------------------
-
-**Checksum information for ok-blockchain.zip [Dec-1-2022]**
+**Checksum information for ok-blockchain.zip**
 
 MD5: 27DEFE6E8F7F415CB70CD4D1A4491B26
 
 SHA-1: D33F13571C4CB4490AD47DFF6235B971C4EF65D3
 
 SHA-256: C0420BE45AF99D093A6E92A47C3B84CD5D5B79090614C933EA83C04F6FC585E2
+
+![OK-Blockchain](https://i.imgur.com/Ji5jRIT.png)
 
 ---------------------------
 
@@ -42,6 +34,16 @@ Just need to download and install: 1Click_Instant_Sync_OK_windows.exe
 - The installation will download and uncompress in the proper folder the latest OK Blockchain snaphot. 
 - Installer might seem unresponsive the first 2-3 minutes when it starts, as its calculating the file size for download.
 - [Dont click on it, just let it work and you will be synced in no time]
+
+# [AUTOMATIC: How to] 1 Click Instant Sync [Linux]
+
+Just need to download and run: oksync_linux.sh
+- From console: 
+```
+chmod +x oksync_linux.sh
+./oksync_linux.sh 
+```
+- [Done, just let it work and you will be synced in no time]
 
 ---------------------------
 
