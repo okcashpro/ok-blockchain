@@ -31,7 +31,7 @@ SHA-256: C0420BE45AF99D093A6E92A47C3B84CD5D5B79090614C933EA83C04F6FC585E2
 # [AUTOMATIC: How to] 1 Click Instant Sync [Windows]
 
 Just need to download and install: 1Click_Instant_Sync_OK_windows.exe
-- The installation will download and uncompress in the proper folder the latest OK Blockchain snaphot. 
+- The installation will download and uncompress in the proper folder the latest OK Blockchain snapshot. 
 - Installer might seem unresponsive the first 2-3 minutes when it starts, as its calculating the file size for download.
 - [Dont click on it, just let it work and you will be synced in no time]
 
