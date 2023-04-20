@@ -10,7 +10,7 @@ https://github.com/okcashpro/ok-blockchain/releases/tag/latest
 
 # MANUAL [All OS]: 
 
-### [January 11 2023] 
+### [March 20 2023] 
 
 Download the latest ok-blockchain.zip directly from: https://okcash.co/ok-blockchain.zip 
 
@@ -18,11 +18,12 @@ Or from the google drive mirror: https://bit.ly/ok-blockchain
 
 **Checksum information for ok-blockchain.zip**
 
-MD5: 7AA364ACD2C2CC2EA65BD17FBF8DC039
+MD5: F453DE93CC32E5A8FEF8B2F5B7624958
 
-SHA-1: 417301F408D7070C2671E3C8CACBF052CFF20FA6
+SHA-1: E1EBC92EC8409C1F67DE55196084118014B61E8A
 
-SHA-256: 8FE9FF31BD14DD9F11DEF07A4AEE631377352BAF971DBCE23C4661069FCFF9A3
+SHA-256: BCD2CACC11BB543075A97A8267F79FE3E5D0A76C3B42E22BAD1C893ECA8AA931
+
 
 ![OK-Blockchain](https://i.imgur.com/Ji5jRIT.png)
 
