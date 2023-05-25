@@ -3,7 +3,7 @@
 
 # AUTOMATIC [Windows, Linux]: 
 [Windows] Download the OK-Instant-Sync-windows.exe file from: 
-https://okcash.co/OK-Instant-Sync-windows.exe
+https://okcash.co/OK-Instant-Sync-windows.exe 25-05-2023
 
 Double click on it after download to install the latest OK Blockchain Snapshot.
 
