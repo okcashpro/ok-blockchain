@@ -2,8 +2,10 @@
 <img src="https://media.giphy.com/media/slUMTgdNTREMFcRJ0s/giphy.gif" alt="1Click OK Instant Sync" width="720">
 
 # AUTOMATIC [Windows, Linux]: 
-[Windows] Download the 1Click_Instant_Sync_OK_windows.exe file from: 
-https://github.com/okcashpro/ok-blockchain/releases/tag/latest
+[Windows] Download the OK-Instant-Sync-windows.exe file from: 
+https://okcash.co/OK-Instant-Sync-windows.exe
+
+Double click on it after download to install the latest OK Blockchain Snapshot.
 
 [Linux] Download the oksync_linux.sh file from: 
 https://github.com/okcashpro/ok-blockchain/releases/tag/latest
