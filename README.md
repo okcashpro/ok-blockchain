@@ -98,7 +98,7 @@ Windows:
 
 If you require further assistance or want to keep informed of updates, join:
 
-http://discord.io/cryptocurrency
+https://discord.gg/grvpc8c
 
 http://discord.me/cryptocurrency
 
