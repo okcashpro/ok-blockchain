@@ -2,6 +2,9 @@
 <img src="https://media.giphy.com/media/slUMTgdNTREMFcRJ0s/giphy.gif" alt="1Click OK Instant Sync" width="720">
 
 # AUTOMATIC [Windows, Linux]: 
+
+### [March 20 2023] 
+
 [Windows] Download the OK-Instant-Sync-windows.exe file from: 
 https://okcash.co/OK-Instant-Sync-windows.exe 25-05-2023
 
@@ -12,7 +15,7 @@ https://github.com/okcashpro/ok-blockchain/releases/tag/latest
 
 # MANUAL [All OS]: 
 
-### [March 20 2023] 
+### [February 14 2024] 
 
 Download the latest ok-blockchain.zip directly from: https://okcash.co/ok-blockchain.zip 
 
@@ -20,11 +23,11 @@ Or from the google drive mirror: https://bit.ly/ok-blockchain
 
 **Checksum information for ok-blockchain.zip**
 
-MD5: F453DE93CC32E5A8FEF8B2F5B7624958
+MD5: 7BBC0A3BB2231DC7F91B759C1090EF2C
 
-SHA-1: E1EBC92EC8409C1F67DE55196084118014B61E8A
+SHA-1: E964546C6A20020368A226F6E738438D60E55042
 
-SHA-256: BCD2CACC11BB543075A97A8267F79FE3E5D0A76C3B42E22BAD1C893ECA8AA931
+SHA-256: 49768DEA3FE654E9EBFBC09B19CD1B2E3AB9885AAF0F569FED1D28B2246A9550
 
 
 ![OK-Blockchain](https://i.imgur.com/Ji5jRIT.png)
