@@ -3,10 +3,10 @@
 
 # AUTOMATIC [Windows, Linux]: 
 
-### [March 20 2023] 
+### [May 25 2023] 
 
 [Windows] Download the OK-Instant-Sync-windows.exe file from: 
-https://okcash.co/OK-Instant-Sync-windows.exe 25-05-2023
+https://okcash.co/OK-Instant-Sync-windows.exe
 
 Double click on it after download to install the latest OK Blockchain Snapshot.
 
